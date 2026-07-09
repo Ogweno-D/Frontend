@@ -1,0 +1,5 @@
+| Feature                | Description                                                      |
+| ---------------------- | ---------------------------------------------------------------- |
+| **Time Tracking**      | Log your work automatically and understand where your time goes. |
+| **Smart Goals**        | Stay focused with personalized goals and progress tracking.      |
+| **Team Collaboration** | Keep everyone aligned with shared tasks and real-time teamwork.  |
